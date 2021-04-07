@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @omer-ozdag, a Turkish master's student at Technical University of Munich (Germany), studying Communications Engineering.
 - 👀 I’m interested in information and communication technologies, software development and data science
 - 🌱 I’m currently learning different programming language and development tools.
-- 💞️ I’m looking to collaborate on beginner or intermediate level open source projects.
+- 💞️ I’m looking to collaborate on beginner or intermediate level open source software development projects.
 - 📫 How to reach me 
      omer.ozdag@hotmail.com
 
