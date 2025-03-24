@@ -1,6 +1,6 @@
-- 👋🏻 Hi, I’m @omer-ozdag, a student at Technical University of Munich (Germany), studying Communications Engineering. I can speak English and Turkish well.
-- 👀 I’m interested in information and communication technologies, namely robotics, signal/image/video processing, artificial intelligence and software development.
-- 🤝🏻 I’m looking to collaborate on beginner or intermediate level open source software development projects.
+- 👋🏻 Hi, I am @omer-ozdag, a recent M.Sc. graduate from Communications Engineering at TU Munich.
+- 👀 I am interested in software development, embedded systems, signal processing and AI.
+- 🤝🏻 I am looking to collaborate meaningful open source software development projects and track progress.
 - 📫 How to reach me 
      omer.ozdag@hotmail.com
 
