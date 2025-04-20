@@ -1,4 +1,4 @@
-- 👋🏻 Hi, I am @omeronthemove
+- 👋🏻 Hi, I am Ömer Özdag (@omeronthemove)
 - 👀 I am interested in software development, embedded systems, signal processing and robotics.
 - 🤝🏻 I am looking to collaborate meaningful open source software development projects and track progress.
 - 📫 How to reach me 
