@@ -1,4 +1,4 @@
-- 👋🏻 Hi, I am @omer-ozdag, a recent M.Sc. graduate in Communications Engineering from TU Munich.
+- 👋🏻 Hi, I am @omeronthemove
 - 👀 I am interested in software development, embedded systems, signal processing and robotics.
 - 🤝🏻 I am looking to collaborate meaningful open source software development projects and track progress.
 - 📫 How to reach me 
