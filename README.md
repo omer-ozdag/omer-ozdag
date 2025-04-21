@@ -24,7 +24,7 @@ Here's a quick breakdown of the repositories in this repository:
 
 📡 [esp32-pi-mqtt](https://github.com/omer-ozdag/esp32-pi-mqtt) - Designing an MQTT-Based Communication Protocol Using ESP32-C3s and Raspberry Pi
 
-📡 [ami-project](https://github.com/omer-ozdag/ami-project) - Project for the Applied Machine Intelligence course
+🧠 [ami-project](https://github.com/omer-ozdag/ami-project) — Project for the Applied Machine Intelligence course
 
 🚧 More projects coming soon… stay tuned!
 
