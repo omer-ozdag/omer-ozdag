@@ -18,11 +18,13 @@ Hi, I am Ömer Özdag, aka @omer-ozdag or @omeronthemove — always on the move,
 
 Here's a quick breakdown of the main directories and files in this repository:
 
-🎛️ [tum-haptics-project](https://github.com/omer-ozdag/tum-haptics-project) — Project for the Computational Haptics Laboratory course.
+🎛️ [haptics](https://github.com/omer-ozdag/haptics) — Project for the Computational Haptics Laboratory course.
 
-🤖 [tum-fp-robotics](https://github.com/omer-ozdag/tum-fp-robotics) — Research Internship in Imitation Learning for Robotics with Haptic and Visual Data
+🤖 [fp-robotics](https://github.com/omer-ozdag/fp-robotics) — Research Internship in Imitation Learning for Robotics with Haptic and Visual Data
 
 📡 [esp32-pi-mqtt](https://github.com/omer-ozdag/esp32-pi-mqtt) - Designing an MQTT-Based Communication Protocol Using ESP32-C3s and Raspberry Pi
+
+📡 [ami-project](https://github.com/omer-ozdag/ami-project) - Project for the Applied Machine Intelligence course
 
 🚧 More projects coming soon… stay tuned!
 
