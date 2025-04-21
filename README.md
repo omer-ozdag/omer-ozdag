@@ -5,9 +5,9 @@ Hi, I am Ömer Özdag, aka @omer-ozdag or @omeronthemove — always on the move,
 ## 📑 Table of Contents
 
 - [Mission and Interests](#mission-and-interests)
+- [Repository Structure](#repository-structure)
 - [Looking to Collaborate](#looking-to-collaborate)
 - [Contact](#contact)
-- [Projects](#projects)
 
 ## Mission and Interests
 
