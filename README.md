@@ -10,9 +10,11 @@ Hi, I am Ömer Özdag, aka @omer-ozdag or @omeronthemove — always on the move,
 
 ## Interests
 
-💡 My mission is to keep growing, keep building and stay curious. I am always pushing forward in pursuit of meaningful challenges.
+💡 I build low-level embedded systems that interact with the real world — especially where radar, vision and real-time constraints meet.
 
-👀 I am interested in software development, embedded systems, signal processing and robotics.
+🔧 My focus is on firmware development, low-latency sensor fusion and perception pipelines for robotics and intelligent embedded devices.
+
+🚀 My mission is to stay sharp, build with purpose and contribute to high-impact systems.
 
 ## 📁 Repository Structure
 
