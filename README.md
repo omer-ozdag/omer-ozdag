@@ -6,7 +6,6 @@ Hi, I am Ömer Özdag, aka @omer-ozdag or @omeronthemove — always on the move,
 
 - [Interests](#interests)
 - [Repository Structure](#repository-structure)
-- [Looking to Collaborate](#looking-to-collaborate)
 - [Contact](#contact)
 
 ## Interests
@@ -28,10 +27,6 @@ Here is a quick breakdown of the repositories:
 🧠 [ami-project](https://github.com/omer-ozdag/ami-project) — Project for the Applied Machine Intelligence course
 
 🚧 More projects coming soon… stay tuned!
-
-## Looking to Collaborate
-
-🤝🏻 I am looking to collaborate on meaningful open source software development projects and track progress.
 
 ## Contact
 
