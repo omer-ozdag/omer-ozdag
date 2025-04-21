@@ -16,7 +16,7 @@ Hi, I am Ömer Özdag, aka @omer-ozdag or @omeronthemove — always on the move,
 
 ## 📁 Repository Structure
 
-Here's a quick breakdown of the main directories and files in this repository:
+Here's a quick breakdown of the repositories in this repository:
 
 🎛️ [haptics](https://github.com/omer-ozdag/haptics) — Project for the Computational Haptics Laboratory course.
 
