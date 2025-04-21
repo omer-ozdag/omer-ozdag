@@ -1,6 +1,6 @@
 ## 👋🏻 Introduction
 
-Hi, I am Ömer Özdag, aka @omer-ozdag or @omeronthemove — always on the move, seeking new challenges, both professionally and personally!
+Hi, I am Ömer, aka @omer-ozdag or @omeronthemove — always on the move, seeking new challenges, both professionally and personally!
 
 ## 📑 Table of Contents
 
