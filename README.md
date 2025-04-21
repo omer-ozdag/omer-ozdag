@@ -20,7 +20,7 @@ Hi, I am Ömer, aka @omer-ozdag or @omeronthemove — always on the move, seekin
 
 Here is a quick breakdown of the repositories:
 
-🎛️ [haptics](https://github.com/omer-ozdag/haptics) — Project for the Computational Haptics Laboratory course.
+🎛️ [haptics](https://github.com/omer-ozdag/haptics) — Project for the Computational Haptics Laboratory course
 
 🤖 [fp-robotics](https://github.com/omer-ozdag/fp-robotics) — Research Internship in Imitation Learning for Robotics with Haptic and Visual Data
 
