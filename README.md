@@ -28,7 +28,7 @@ Here is a quick breakdown of the repositories:
 
 🧠 [ami-project](https://github.com/omer-ozdag/ami-project) — Project for the Applied Machine Intelligence course
 
-🚀 **Upcoming Project:** A Multi-Sensor Embedded System for Orientation and Distance Visualization
+🕒 **Upcoming Project:** A Qt-Powered Multi-Sensor Embedded System for Orientation and Distance Visualization
 
 ## Contact
 
