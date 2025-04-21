@@ -4,15 +4,15 @@ Hi, I am Ömer Özdag, aka @omer-ozdag or @omeronthemove — always on the move,
 
 ## 📑 Table of Contents
 
-- [About Me](#about-me)
+- [My Mission](#my-mission)
 - [Interests](#interests)
 - [Looking to Collaborate](#looking-to-collaborate)
 - [Contact](#contact)
 - [Projects](#projects)
 
-## About Me
+## My Mission
 
-💡 My mission? To keep growing, keep building, and stay curious — always pushing forward in pursuit of meaningful challenges.
+💡 To keep growing, keep building, and stay curious — always pushing forward in pursuit of meaningful challenges.
 
 ## Interests
 
