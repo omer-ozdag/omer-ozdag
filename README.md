@@ -28,7 +28,7 @@ Here is a quick breakdown of the repositories:
 
 🧠 [ami-project](https://github.com/omer-ozdag/ami-project) — Project for the Applied Machine Intelligence course
 
-🚧 More projects coming soon… stay tuned!
+🚀 *Upcoming Project:* Real-Time IMU + LiDAR Visualizer for Embedded Systems
 
 ## Contact
 
