@@ -22,7 +22,7 @@ Here's a quick breakdown of the main directories and files in this repository:
 
 🤖 [tum-fp-robotics](https://github.com/omer-ozdag/tum-fp-robotics) — Research Internship in Imitation Learning for Robotics with Haptic and Visual Data
 
-📡 [esp32-pi-mqtt](https://github.com/omer-ozdag/esp32-pi-mqtt) - MQTT-Based Communication Protocol Using ESP32-C3s and Raspberry Pi
+📡 [esp32-pi-mqtt](https://github.com/omer-ozdag/esp32-pi-mqtt) - Designing an MQTT-Based Communication Protocol Using ESP32-C3s and Raspberry Pi
 
 🚧 More projects coming soon… stay tuned!
 
