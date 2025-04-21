@@ -12,7 +12,7 @@ Hi, I am Ömer, aka @omer-ozdag or @omeronthemove — always on the move, seekin
 
 💡 I build embedded systems for real-time perception — where firmware meets radar, vision, and sensor fusion.
 
-🔧 Focused on firmware development, signal processing, and low-latency sensor integration for robotics and intelligent devices.
+🔧 Focused on firmware development, signal processing and low-latency sensor integration for robotics and intelligent devices.
 
 🚀 My mission is to stay sharp, build with purpose and contribute to high-impact systems.
 
