@@ -4,18 +4,14 @@ Hi, I am Ömer Özdag, aka @omer-ozdag or @omeronthemove — always on the move,
 
 ## 📑 Table of Contents
 
-- [My Mission](#my-mission)
-- [Interests](#interests)
+- [Mission and Interests](#mission-and-interests)
 - [Looking to Collaborate](#looking-to-collaborate)
 - [Contact](#contact)
 - [Projects](#projects)
 
-## My Mission
+## Mission and Interests
 
 💡 To keep growing, keep building, and stay curious — always pushing forward in pursuit of meaningful challenges.
-
-## Interests
-
 👀 I am interested in software development, embedded systems, signal processing and robotics.
 
 ## 📁 Repository Structure
